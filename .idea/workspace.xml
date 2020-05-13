@@ -25,9 +25,8 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0d1dbc21-ddc6-4512-bf3f-a961063ace23" name="Default Changelist" comment="add comment">
-      <change afterPath="$PROJECT_DIR$/incapsul.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="0d1dbc21-ddc6-4512-bf3f-a961063ace23" name="Default Changelist" comment="add class Bulding">
+      <change beforePath="$PROJECT_DIR$/classExample.py" beforeDir="false" afterPath="$PROJECT_DIR$/classExample.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +73,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.django.DjangoModulesConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.incapsul">
+  <component name="RunManager" selected="Python.classExample (1)">
     <configuration name="classExample (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="mysite" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -119,28 +118,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="incapsul" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="mysite" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/incapsul.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="mysite" type="Python.DjangoServer" factoryName="Django server">
       <module name="mysite" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -166,7 +143,6 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.incapsul" />
         <item itemvalue="Python.classExample (1)" />
         <item itemvalue="Python.classExample" />
       </list>
@@ -184,7 +160,7 @@
       <updated>1589361184096</updated>
       <workItem from="1589361210600" duration="983000" />
       <workItem from="1589365543774" duration="3335000" />
-      <workItem from="1589371019319" duration="8163000" />
+      <workItem from="1589371019319" duration="5335000" />
     </task>
     <task id="LOCAL-00001" summary="add models.py">
       <created>1589368162978</created>
@@ -228,21 +204,7 @@
       <option name="project" value="LOCAL" />
       <updated>1589377739469</updated>
     </task>
-    <task id="LOCAL-00007" summary="last class Buld">
-      <created>1589378164096</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1589378164096</updated>
-    </task>
-    <task id="LOCAL-00008" summary="add comment">
-      <created>1589378262705</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1589378262705</updated>
-    </task>
-    <option name="localTasksCounter" value="9" />
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -251,26 +213,6 @@
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
-        <entry key="1">
-          <value>
-            <State />
-          </value>
-        </entry>
-        <entry key="2">
-          <value>
-            <State />
-          </value>
-        </entry>
-        <entry key="3">
-          <value>
-            <State />
-          </value>
-        </entry>
-        <entry key="4">
-          <value>
-            <State />
-          </value>
-        </entry>
         <entry key="MAIN">
           <value>
             <State>
@@ -279,7 +221,6 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="example" />
                         <option value="master" />
                       </list>
                     </value>
@@ -298,47 +239,29 @@
     <MESSAGE value="add db sqlite" />
     <MESSAGE value="add class header and class method" />
     <MESSAGE value="add class Bulding" />
-    <MESSAGE value="last class Buld" />
-    <MESSAGE value="add comment" />
-    <option name="LAST_COMMIT_MESSAGE" value="add comment" />
+    <option name="LAST_COMMIT_MESSAGE" value="add class Bulding" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="100" y="123" width="2360" height="1137" key="DiffContextDialog" timestamp="1589380497926">
+    <state x="100" y="123" width="2360" height="1137" key="DiffContextDialog" timestamp="1589361811392">
       <screen x="0" y="23" width="2560" height="1337" />
     </state>
-    <state x="100" y="123" width="2360" height="1137" key="DiffContextDialog/0.23.2560.1337@0.23.2560.1337" timestamp="1589380497926" />
-    <state width="1797" height="469" key="GridCell.Tab.0.bottom" timestamp="1589381449714">
+    <state x="100" y="123" width="2360" height="1137" key="DiffContextDialog/0.23.2560.1337@0.23.2560.1337" timestamp="1589361811392" />
+    <state width="1797" height="382" key="GridCell.Tab.0.bottom" timestamp="1589378129984">
       <screen x="0" y="23" width="2560" height="1337" />
     </state>
-    <state width="1797" height="469" key="GridCell.Tab.0.bottom/0.23.2560.1337@0.23.2560.1337" timestamp="1589381449714" />
-    <state width="1797" height="469" key="GridCell.Tab.0.center" timestamp="1589381449714">
+    <state width="1797" height="382" key="GridCell.Tab.0.bottom/0.23.2560.1337@0.23.2560.1337" timestamp="1589378129984" />
+    <state width="1797" height="382" key="GridCell.Tab.0.center" timestamp="1589378129983">
       <screen x="0" y="23" width="2560" height="1337" />
     </state>
-    <state width="1797" height="469" key="GridCell.Tab.0.center/0.23.2560.1337@0.23.2560.1337" timestamp="1589381449714" />
-    <state width="1797" height="469" key="GridCell.Tab.0.left" timestamp="1589381449713">
+    <state width="1797" height="382" key="GridCell.Tab.0.center/0.23.2560.1337@0.23.2560.1337" timestamp="1589378129983" />
+    <state width="1797" height="382" key="GridCell.Tab.0.left" timestamp="1589378129983">
       <screen x="0" y="23" width="2560" height="1337" />
     </state>
-    <state width="1797" height="469" key="GridCell.Tab.0.left/0.23.2560.1337@0.23.2560.1337" timestamp="1589381449713" />
-    <state width="1797" height="469" key="GridCell.Tab.0.right" timestamp="1589381449714">
+    <state width="1797" height="382" key="GridCell.Tab.0.left/0.23.2560.1337@0.23.2560.1337" timestamp="1589378129983" />
+    <state width="1797" height="382" key="GridCell.Tab.0.right" timestamp="1589378129984">
       <screen x="0" y="23" width="2560" height="1337" />
     </state>
-    <state width="1797" height="469" key="GridCell.Tab.0.right/0.23.2560.1337@0.23.2560.1337" timestamp="1589381449714" />
-    <state width="1797" height="469" key="GridCell.Tab.1.bottom" timestamp="1589381449716">
-      <screen x="0" y="23" width="2560" height="1337" />
-    </state>
-    <state width="1797" height="469" key="GridCell.Tab.1.bottom/0.23.2560.1337@0.23.2560.1337" timestamp="1589381449716" />
-    <state width="1797" height="469" key="GridCell.Tab.1.center" timestamp="1589381449715">
-      <screen x="0" y="23" width="2560" height="1337" />
-    </state>
-    <state width="1797" height="469" key="GridCell.Tab.1.center/0.23.2560.1337@0.23.2560.1337" timestamp="1589381449715" />
-    <state width="1797" height="469" key="GridCell.Tab.1.left" timestamp="1589381449715">
-      <screen x="0" y="23" width="2560" height="1337" />
-    </state>
-    <state width="1797" height="469" key="GridCell.Tab.1.left/0.23.2560.1337@0.23.2560.1337" timestamp="1589381449715" />
-    <state width="1797" height="469" key="GridCell.Tab.1.right" timestamp="1589381449715">
-      <screen x="0" y="23" width="2560" height="1337" />
-    </state>
-    <state width="1797" height="469" key="GridCell.Tab.1.right/0.23.2560.1337@0.23.2560.1337" timestamp="1589381449715" />
+    <state width="1797" height="382" key="GridCell.Tab.0.right/0.23.2560.1337@0.23.2560.1337" timestamp="1589378129984" />
     <state x="1390" y="172" key="SettingsEditor" timestamp="1589368067370">
       <screen x="0" y="23" width="2560" height="1337" />
     </state>
@@ -352,19 +275,7 @@
     </state>
     <state x="1341" y="280" width="598" height="822" key="find.popup/0.23.2560.1337@0.23.2560.1337" timestamp="1589369488390" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <default-breakpoints>
-        <breakpoint type="python-exception">
-          <properties notifyOnTerminate="true" exception="BaseException">
-            <option name="notifyOnTerminate" value="true" />
-          </properties>
-        </breakpoint>
-      </default-breakpoints>
-    </breakpoint-manager>
-  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/MySite$incapsul.coverage" NAME="incapsul Coverage Results" MODIFIED="1589381588298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/MySite$classExample.coverage" NAME="classExample Coverage Results" MODIFIED="1589370377721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/MySite$classExample__1_.coverage" NAME="classExample (1) Coverage Results" MODIFIED="1589378129974" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
