@@ -37,21 +37,40 @@
 #
 # first_holiday = Menu("self", 'pure', 'olive', 'kompot', 'ice cream')
 # first_holiday.show()
+# class Bulding(object):
+#     def __int__(self, first, second, trith, fourth):
+#         print('make item')
+#         self.first = first
+#         self.second = second
+#         self.trith = trith
+#         self.fourth = fourth
+#
+#     def bild(self):
+#         print('first bilding', self.first)
+#         print('second bilding', self.second)
+#         print('trith bilding', self.trith)
+#         print('fourth bilding', self.fourth)
+#
+#
+# x = Bulding()
+# x.bild()
 
-class Bulding(object):
-    def __int__(self, first, second, trith, fourth):
-        print('make item')
+class Buld(object):
+    def __init__(self, first, second, trith, fourth, fiveth):
+        print('Class for make menu on all happening')
         self.first = first
         self.second = second
         self.trith = trith
         self.fourth = fourth
+        self.fiveth = fiveth
 
-    def bild(self):
-        print('first bilding', self.first)
-        print('second bilding', self.second)
-        print('trith bilding', self.trith)
-        print('fourth bilding', self.fourth)
+    def show(self):
+        print('first bilding +', self.first)
+        print('second bilding +', self.second)
+        print('trith bilding +', self.trith)
+        print('fourth bilding +', self.fourth)
+        print('fourth bilding +', self.fiveth)
 
 
-x = Bulding()
-x.bild()
+hause = Buld("fundament", 'steny', 'krisha', 'okna', 'teplo')
+hause.show()
