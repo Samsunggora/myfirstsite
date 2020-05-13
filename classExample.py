@@ -8,16 +8,32 @@
 # crit = Critter()
 # crit.talk()
 
-class Animal(object):
-    '''virtual animal'''
+# class Animal(object):
+#     '''virtual animal'''
+#
+#     def __init__(self, name):
+#         print ('init new animal')
+#         self.name = name
+#
+#     def talk(self):
+#         print ('hello ', 'my name is ', self.name)
+#
+#
+# crit1 = Animal('bobik.')
+# crit1.talk()
 
-    def __init__(self, name):
-        print ('init new animal')
-        self.name = name
+class Menu(object):
+    def __init__(self, first, second, salt, water, candy):
+        print('Class for make menu on all happening')
+        self.first = first
+        self.second = second
+        self.salt = salt
+        self.water = water
+        self.candy = candy
 
-    def talk(self):
-        print ('hello ','my name is ', self.name)
+    def show(self):
+        print(self.first, self.second, self.salt, self.water, self.candy)
 
 
-crit1 = Animal('bobik.')
-crit1.talk()
+first_holiday = Menu("self", 'pure', 'olive', 'kompot', 'ice cream')
+first_holiday.show()
