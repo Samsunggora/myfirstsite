@@ -56,6 +56,7 @@
 # x.bild()
 
 class Buld(object):
+    """Make number of bildinin class"""
     def __init__(self, first, second, trith, fourth, fiveth):
         print('Class for make menu on all happening')
         self.first = first
