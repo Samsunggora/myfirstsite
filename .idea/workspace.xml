@@ -16,10 +16,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0d1dbc21-ddc6-4512-bf3f-a961063ace23" name="Default Changelist" comment="add class header and class method">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classExample.py" beforeDir="false" afterPath="$PROJECT_DIR$/classExample.py" afterDir="false" />
-    </list>
+    <list default="true" id="0d1dbc21-ddc6-4512-bf3f-a961063ace23" name="Default Changelist" comment="add class header and class method" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -152,7 +149,7 @@
       <updated>1589361184096</updated>
       <workItem from="1589361210600" duration="983000" />
       <workItem from="1589365543774" duration="3335000" />
-      <workItem from="1589371019319" duration="2403000" />
+      <workItem from="1589371019319" duration="2687000" />
     </task>
     <task id="LOCAL-00001" summary="add models.py">
       <created>1589368162978</created>
@@ -182,7 +179,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589370780264</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add class header and class method">
+      <created>1589374948196</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1589374948196</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -199,7 +203,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="master" />
+                        <option value="origin/example" />
                       </list>
                     </value>
                   </entry>
@@ -223,22 +227,22 @@
       <screen x="0" y="23" width="2560" height="1337" />
     </state>
     <state x="100" y="123" width="2360" height="1137" key="DiffContextDialog/0.23.2560.1337@0.23.2560.1337" timestamp="1589361811392" />
-    <state width="1797" height="382" key="GridCell.Tab.0.bottom" timestamp="1589374735939">
+    <state width="1797" height="382" key="GridCell.Tab.0.bottom" timestamp="1589374981200">
       <screen x="0" y="23" width="2560" height="1337" />
     </state>
-    <state width="1797" height="382" key="GridCell.Tab.0.bottom/0.23.2560.1337@0.23.2560.1337" timestamp="1589374735939" />
-    <state width="1797" height="382" key="GridCell.Tab.0.center" timestamp="1589374735938">
+    <state width="1797" height="382" key="GridCell.Tab.0.bottom/0.23.2560.1337@0.23.2560.1337" timestamp="1589374981200" />
+    <state width="1797" height="382" key="GridCell.Tab.0.center" timestamp="1589374981199">
       <screen x="0" y="23" width="2560" height="1337" />
     </state>
-    <state width="1797" height="382" key="GridCell.Tab.0.center/0.23.2560.1337@0.23.2560.1337" timestamp="1589374735938" />
-    <state width="1797" height="382" key="GridCell.Tab.0.left" timestamp="1589374735938">
+    <state width="1797" height="382" key="GridCell.Tab.0.center/0.23.2560.1337@0.23.2560.1337" timestamp="1589374981199" />
+    <state width="1797" height="382" key="GridCell.Tab.0.left" timestamp="1589374981199">
       <screen x="0" y="23" width="2560" height="1337" />
     </state>
-    <state width="1797" height="382" key="GridCell.Tab.0.left/0.23.2560.1337@0.23.2560.1337" timestamp="1589374735938" />
-    <state width="1797" height="382" key="GridCell.Tab.0.right" timestamp="1589374735939">
+    <state width="1797" height="382" key="GridCell.Tab.0.left/0.23.2560.1337@0.23.2560.1337" timestamp="1589374981199" />
+    <state width="1797" height="382" key="GridCell.Tab.0.right" timestamp="1589374981199">
       <screen x="0" y="23" width="2560" height="1337" />
     </state>
-    <state width="1797" height="382" key="GridCell.Tab.0.right/0.23.2560.1337@0.23.2560.1337" timestamp="1589374735939" />
+    <state width="1797" height="382" key="GridCell.Tab.0.right/0.23.2560.1337@0.23.2560.1337" timestamp="1589374981199" />
     <state x="1390" y="172" key="SettingsEditor" timestamp="1589368067370">
       <screen x="0" y="23" width="2560" height="1337" />
     </state>
