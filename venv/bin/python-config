@@ -1,4 +1,4 @@
-#!/Users/egor/Desktop/mysite/venv/bin/python
+#!/Users/egor/Desktop/MySite/venv/bin/python
 
 import sys
 import getopt
