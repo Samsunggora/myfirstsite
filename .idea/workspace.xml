@@ -25,8 +25,9 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0d1dbc21-ddc6-4512-bf3f-a961063ace23" name="Default Changelist" comment="add: example decorator">
+    <list default="true" id="0d1dbc21-ddc6-4512-bf3f-a961063ace23" name="Default Changelist" comment="Delete classExample.py, Decorators.py and incapsul.py">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySite/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/MySite/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -231,7 +232,7 @@
       <workItem from="1589361210600" duration="983000" />
       <workItem from="1589365543774" duration="3335000" />
       <workItem from="1589371019319" duration="9621000" />
-      <workItem from="1589444288034" duration="4324000" />
+      <workItem from="1589444288034" duration="5168000" />
     </task>
     <task id="LOCAL-00001" summary="add models.py">
       <created>1589368162978</created>
@@ -345,7 +346,21 @@
       <option name="project" value="LOCAL" />
       <updated>1589447719249</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="add: example decorator">
+      <created>1589449689802</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1589449689802</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Delete classExample.py, Decorators.py and incapsul.py">
+      <created>1589449749360</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1589449749360</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -409,7 +424,8 @@
     <MESSAGE value="add x" />
     <MESSAGE value="add: name setter" />
     <MESSAGE value="add: example decorator" />
-    <option name="LAST_COMMIT_MESSAGE" value="add: example decorator" />
+    <MESSAGE value="Delete classExample.py, Decorators.py and incapsul.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Delete classExample.py, Decorators.py and incapsul.py" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1240" y="356" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589444314996">
@@ -420,22 +436,22 @@
       <screen x="0" y="23" width="2560" height="1337" />
     </state>
     <state x="100" y="123" width="2360" height="1137" key="DiffContextDialog/0.23.2560.1337@0.23.2560.1337" timestamp="1589380497926" />
-    <state width="1797" height="382" key="GridCell.Tab.0.bottom" timestamp="1589448130733">
+    <state width="1797" height="382" key="GridCell.Tab.0.bottom" timestamp="1589449758970">
       <screen x="0" y="23" width="2560" height="1337" />
     </state>
-    <state width="1797" height="382" key="GridCell.Tab.0.bottom/0.23.2560.1337@0.23.2560.1337" timestamp="1589448130733" />
-    <state width="1797" height="382" key="GridCell.Tab.0.center" timestamp="1589448130732">
+    <state width="1797" height="382" key="GridCell.Tab.0.bottom/0.23.2560.1337@0.23.2560.1337" timestamp="1589449758970" />
+    <state width="1797" height="382" key="GridCell.Tab.0.center" timestamp="1589449758969">
       <screen x="0" y="23" width="2560" height="1337" />
     </state>
-    <state width="1797" height="382" key="GridCell.Tab.0.center/0.23.2560.1337@0.23.2560.1337" timestamp="1589448130732" />
-    <state width="1797" height="382" key="GridCell.Tab.0.left" timestamp="1589448130732">
+    <state width="1797" height="382" key="GridCell.Tab.0.center/0.23.2560.1337@0.23.2560.1337" timestamp="1589449758969" />
+    <state width="1797" height="382" key="GridCell.Tab.0.left" timestamp="1589449758969">
       <screen x="0" y="23" width="2560" height="1337" />
     </state>
-    <state width="1797" height="382" key="GridCell.Tab.0.left/0.23.2560.1337@0.23.2560.1337" timestamp="1589448130732" />
-    <state width="1797" height="382" key="GridCell.Tab.0.right" timestamp="1589448130733">
+    <state width="1797" height="382" key="GridCell.Tab.0.left/0.23.2560.1337@0.23.2560.1337" timestamp="1589449758969" />
+    <state width="1797" height="382" key="GridCell.Tab.0.right" timestamp="1589449758969">
       <screen x="0" y="23" width="2560" height="1337" />
     </state>
-    <state width="1797" height="382" key="GridCell.Tab.0.right/0.23.2560.1337@0.23.2560.1337" timestamp="1589448130733" />
+    <state width="1797" height="382" key="GridCell.Tab.0.right/0.23.2560.1337@0.23.2560.1337" timestamp="1589449758969" />
     <state width="1797" height="469" key="GridCell.Tab.1.bottom" timestamp="1589384845661">
       <screen x="0" y="23" width="2560" height="1337" />
     </state>
