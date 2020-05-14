@@ -30,7 +30,9 @@ class Example(object):
 
     def publick(self):
         print('This is open method')
+        self.__private()
 
 
 x = Example('pervoye', 'vtoroye')
 x.names()
+x.publick()
