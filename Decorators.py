@@ -6,5 +6,10 @@ class Animal(object):
     @property
     def name(self):
         return self.__name
+    def talk(self):
+        print('Hello my name is :', self.name)
+
+x = Animal('barbos')
+x.talk()
 
 
