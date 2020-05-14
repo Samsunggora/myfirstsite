@@ -31,4 +31,6 @@ class Example(object):
     def publick(self):
         print('This is open method')
 
-x = Example
+
+x = Example('pervoye', 'vtoroye')
+x.names()
