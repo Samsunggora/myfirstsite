@@ -25,9 +25,9 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0d1dbc21-ddc6-4512-bf3f-a961063ace23" name="Default Changelist" comment="Delete classExample.py, Decorators.py and incapsul.py">
+    <list default="true" id="0d1dbc21-ddc6-4512-bf3f-a961063ace23" name="Default Changelist" comment="Make db directory">
+      <change afterPath="$PROJECT_DIR$/blog/migrations/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MySite/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/MySite/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +73,12 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.django.DjangoModulesConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/db.mysite" />
+    </key>
   </component>
   <component name="RunManager" selected="Python.Decorators">
     <configuration name="Decorators" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -232,7 +237,7 @@
       <workItem from="1589361210600" duration="983000" />
       <workItem from="1589365543774" duration="3335000" />
       <workItem from="1589371019319" duration="9621000" />
-      <workItem from="1589444288034" duration="5168000" />
+      <workItem from="1589444288034" duration="6255000" />
     </task>
     <task id="LOCAL-00001" summary="add models.py">
       <created>1589368162978</created>
@@ -360,7 +365,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589449749360</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Make db directory">
+      <created>1589450833768</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1589450833768</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -425,7 +437,8 @@
     <MESSAGE value="add: name setter" />
     <MESSAGE value="add: example decorator" />
     <MESSAGE value="Delete classExample.py, Decorators.py and incapsul.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="Delete classExample.py, Decorators.py and incapsul.py" />
+    <MESSAGE value="Make db directory" />
+    <option name="LAST_COMMIT_MESSAGE" value="Make db directory" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1240" y="356" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589444314996">
@@ -476,18 +489,30 @@
       <screen x="0" y="23" width="2560" height="1337" />
     </state>
     <state x="1530" y="565" width="497" height="252" key="MultipleFileMergeDialog/0.23.2560.1337@0.23.2560.1337" timestamp="1589381860034" />
-    <state x="1390" y="172" key="SettingsEditor" timestamp="1589368067370">
+    <state x="1468" y="418" key="RollbackChangesDialog" timestamp="1589451563436">
       <screen x="0" y="23" width="2560" height="1337" />
     </state>
-    <state x="1390" y="172" key="SettingsEditor/0.23.2560.1337@0.23.2560.1337" timestamp="1589368067370" />
+    <state x="1468" y="418" key="RollbackChangesDialog/0.23.2560.1337@0.23.2560.1337" timestamp="1589451563436" />
+    <state x="1390" y="172" key="SettingsEditor" timestamp="1589451111669">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state x="1390" y="172" key="SettingsEditor/0.23.2560.1337@0.23.2560.1337" timestamp="1589451111669" />
     <state x="1432" y="612" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589445892728">
       <screen x="0" y="23" width="2560" height="1337" />
     </state>
     <state x="1432" y="612" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.2560.1337@0.23.2560.1337" timestamp="1589445892728" />
-    <state x="1341" y="280" width="598" height="822" key="find.popup" timestamp="1589369488390">
+    <state x="1341" y="280" width="598" height="822" key="find.popup" timestamp="1589451600550">
       <screen x="0" y="23" width="2560" height="1337" />
     </state>
-    <state x="1341" y="280" width="598" height="822" key="find.popup/0.23.2560.1337@0.23.2560.1337" timestamp="1589369488390" />
+    <state x="1341" y="280" width="598" height="822" key="find.popup/0.23.2560.1337@0.23.2560.1337" timestamp="1589451600550" />
+    <state x="1289" y="414" width="700" height="530" key="recent.locations.popup" timestamp="1589451157057">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state x="1289" y="414" width="700" height="530" key="recent.locations.popup/0.23.2560.1337@0.23.2560.1337" timestamp="1589451157057" />
+    <state x="1305" y="328" width="670" height="676" key="search.everywhere.popup" timestamp="1589451534800">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state x="1305" y="328" width="670" height="676" key="search.everywhere.popup/0.23.2560.1337@0.23.2560.1337" timestamp="1589451534800" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
