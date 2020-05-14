@@ -25,15 +25,12 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0d1dbc21-ddc6-4512-bf3f-a961063ace23" name="Default Changelist" comment="Add blog apps">
-      <change afterPath="$PROJECT_DIR$/blog/templates/first.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/mysite.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/mysite.iml" afterDir="false" />
+    <list default="true" id="0d1dbc21-ddc6-4512-bf3f-a961063ace23" name="Default Changelist" comment="Work fixes">
+      <change afterPath="$PROJECT_DIR$/blog/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MySite/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/MySite/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/templates/first.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/templates/first.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blog/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.mysite/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.mysite/db.sqlite3" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -251,7 +248,7 @@
       <workItem from="1589361210600" duration="983000" />
       <workItem from="1589365543774" duration="3335000" />
       <workItem from="1589371019319" duration="9621000" />
-      <workItem from="1589444288034" duration="9490000" />
+      <workItem from="1589444288034" duration="14770000" />
     </task>
     <task id="LOCAL-00001" summary="add models.py">
       <created>1589368162978</created>
@@ -393,7 +390,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589451823208</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Work fixes">
+      <created>1589455232128</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1589455232128</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -460,7 +464,8 @@
     <MESSAGE value="Delete classExample.py, Decorators.py and incapsul.py" />
     <MESSAGE value="Make db directory" />
     <MESSAGE value="Add blog apps" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add blog apps" />
+    <MESSAGE value="Work fixes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Work fixes" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1240" y="356" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589444314996">

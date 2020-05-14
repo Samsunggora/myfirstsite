@@ -2,9 +2,15 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Title</title>
+    <title></title>
 </head>
 <body>
+
+{% for n in posts %}
+<h1>{{ n.title }}</h1>
+<p>{{ n.timestamp }}</p>
+<p>{{ n.body }}</p>
+{% endfor %}
 
 </body>
 </html>
