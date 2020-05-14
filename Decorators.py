@@ -21,3 +21,5 @@ class Animal(object):
 
 x = Animal('barbos')
 x.talk()
+x.name = "pes"
+print(x.name)
